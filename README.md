@@ -18,4 +18,4 @@ In this project, Vue.js is used to create a flashcard browser app:
 ### Preview
 To view the working app click [here](https://martynm1982.github.io/Number_Guesser_Game/)
 
-![image](https://user-images.githubusercontent.com/77343504/116066646-2e6f4180-a680-11eb-9340-db51d12b6ce9.png)
+![image](https://user-images.githubusercontent.com/77343504/118473644-1e3c0680-b702-11eb-9b11-5e290a146724.png)
